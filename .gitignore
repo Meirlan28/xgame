@@ -1,0 +1,31 @@
+# CMake build
+/build/
+/CMakeFiles/
+/Makefile
+/CMakeCache.txt
+/*.cmake
+
+# Visual Studio
+.vs/
+out/
+project/
+x64/
+xgame/
+*.vcxproj*
+*.sln
+*.obj
+*.pdb
+*.ipch
+*.tlog
+*.user
+*.log
+*.opensdf
+*.sdf
+*.vcxproj.*
+*.cache
+*.db
+*.exe
+
+# OS-specific
+.DS_Store
+Thumbs.db
